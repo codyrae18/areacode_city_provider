@@ -2,6 +2,7 @@ dial_book = {
   "newyork" => "212",
   "newbrunswick" => "732",
   "edison" => "908",
+  "sanantonio" => "210",
   "plainsboro" => "301",
   "sanfrancisco" => "302",
   "miami" => "305",
