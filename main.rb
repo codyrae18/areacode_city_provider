@@ -9,7 +9,9 @@ dial_book = {
   "paloalto" => "650",
   "evanston" => "847",
   "orlando" => "407",
-  "lancaster" => "717"
+  "lancaster" => "717",
+  "losangeles" => "727"
+
 }
 
 
