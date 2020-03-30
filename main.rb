@@ -11,6 +11,7 @@ dial_book = {
   "orlando" => "407",
   "lancaster" => "717",
   "losangeles" => "727"
+  "austin" => "214"
 
 }
 
